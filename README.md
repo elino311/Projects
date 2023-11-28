@@ -25,7 +25,7 @@
     </style>
 </head>
 <body>
-    <h1>Eli - Junior Data Analyst</h1>
+    <h1>Elizaveta Novoselova - Junior Data Analyst</h1>
 
     <!-- Link to project 1 -->
     <p><a href="https://github.com/elino311/Projects/blob/main/Project_Data_on_cardiovascular_diseases.ipynb">Analyzing data on cardiovascular diseases</a>: Краткое описание проекта 1.</p>
